@@ -1,2 +1,5 @@
 # Scientific-Report
-Recording of my reading reference
+===== Dajie Xie =====
+-Recording of my daily paper review
+-Update my codes of plotting and data analysis
+
