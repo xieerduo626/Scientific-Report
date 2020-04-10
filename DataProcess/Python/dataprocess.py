@@ -10,4 +10,6 @@ from numpy.polynomial.polynomial import polyfit
 b, m = polyfit(xsmall, sizesmall, 1) #linear
 
 
+#findpeaks
+peaks, _ = find_peaks(y, distance=200, height=100)
 
