@@ -11,6 +11,10 @@ hfont = {'fontname':'Helvetica'}
 #legend
 rcParams["legend.fancybox"] = False
 
+#size of the figure
+rcParams['figure.figsize'] = 8, 6
+
+
 #data
 x = np.linspace(-np.pi,np.pi,100)
 y1 = np.sin(x)
