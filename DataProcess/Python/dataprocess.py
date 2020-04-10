@@ -1,4 +1,6 @@
 import numpy as np
+from scipy.signal import find_peaks
+
 
 a = np.loadtxt('data.csv', delimiter=",", skiprows=1)
 wanteddata=a[2:3,4:6]
