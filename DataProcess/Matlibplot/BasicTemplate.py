@@ -30,6 +30,7 @@ ax.set_ylabel(r'y($\mu m^2$)',fontsize=14)
 ax.minorticks_on()
 ax.legend(borderaxespad=0,edgecolor='black')
 ax.tick_params(which='both', direction='in',bottom=True, top=True, left=True, right=True)
+plt.savefig("Q31.png",bbox_inches='tight',transparent=True,dpi=500)
 plt.show()
 
 
