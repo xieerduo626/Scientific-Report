@@ -12,7 +12,7 @@ hfont = {'fontname':'Helvetica'}
 rcParams["legend.fancybox"] = False
 
 #size of the figure
-rcParams['figure.figsize'] = 6.4, 4. 8
+rcParams['figure.figsize'] = 6.4, 4.8
 
 
 #data
